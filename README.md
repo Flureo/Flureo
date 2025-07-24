@@ -17,4 +17,4 @@
 - [YouTube](https://www.youtube.com/@flureo)
 - [Discord](https://discord.com/users/990647636862328882)
 - [Twitch](https://www.twitch.tv/mcflureos)
-- [X](none)
+- [X](https://twitter.com/@flureos)

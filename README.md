@@ -1,9 +1,14 @@
 # ☕ Good morning!
-Hello **everyone**, I'm Flureo *(my name is McFlurry and oreo combind)* and I'm a sixteen-year-old Software Developer.
-I got into technology and programming at the age of twelve. The first programming I learn was C++ I know I'm make a lot 
-of hard to believe claims and to be honst hard to prove claims. Do note that I wouldn't consider myself a 
-*"Software Developer with four years of experience"* because most of the time was just spend learning things and not 
-actaully developing anything. More time was spent playing video games then actually making cool projects and I mean 
-can you even blame me that is what most kids of that age do now adays. I have started takeing Software Development 
-more seriously and I now look at it as more of a career. I'm currectly learning web development so I can maybe get 
-hired in the near future. And that is really all I have to say for now. Cya!
+Hello **everyone**,I'm Flureo *(my name is McFlurry and oreo combind)* 
+and I'm a sixteen-year-old Software Developer. I got into technology 
+and programming at the age of twelve. The first programming I learn 
+was C++ I know I'm make a lot of hard to believe claims and to be 
+honst hard to prove claims. Do note that I wouldn't consider myself 
+a *"Software Developer with four years of experience"* because most 
+of the time was just spend learning things and not actaully developing
+anything. More time was spent playing video games then actually making 
+cool projects and I mean can you even blame me that is what most kids 
+of that age do now adays. I have started takeing Software Development 
+more seriously and I now look at it as more of a career. I'm currectly
+learning web development so I can maybe get hired in the near future.
+And that is really all I have to say for now. Cya!
